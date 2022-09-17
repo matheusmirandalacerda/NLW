@@ -74,6 +74,7 @@ section div {
 
 section h2{
     letter-spacing: -0.47px;
+
 }
 
 section p {
@@ -102,7 +103,7 @@ section ul li:hover{
     border-radius: 8px;
 }
 
-.channel-list img{
+.movie-list img{
     width: 70px;
     border-radius: 50%;
     border: 1px solid #443E54;
